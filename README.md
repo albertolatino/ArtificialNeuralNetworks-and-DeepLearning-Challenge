@@ -3,7 +3,7 @@
 *Artificial Neural Network and Deep Learning* is course offered by Politecnico di Milano.
 In this repository you can find the Jupyter Notebooks that we created for the competition in the academic year (2020/2021).
 
-The competition was divided into three challenges, each one of them cover a different topic of the course:
+The competition is divided into three challenges, each one of them cover a different topic of the course:
  - Image Classification 
  - Image Segmentation
  - Visual Question Answering
